@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Devonshire&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&display=swap");
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.gallery_face {
+  background-color: #eddfb3;
+  height: 100vh;
+  width: 100vw;
+}
+.gallery_title {
+  float: left;
+  font-style: bold;
+  margin-top: 25vh;
+  margin-left: 15vh;
+  width: 40vw;
+  color: #362222;
+  text-align: left;
+  font-size: 100px;
+  font-family: "Devonshire", cursive;
+}
+.gallery_quote {
+  width: 40vw;
+  margin-top: -8vh;
+  margin-left: 15vh;
+  color: #362222;
+  text-align: left;
+  font-size: 40px;
+  font-family: "Devonshire", cursive;
+}
+.gallery_text_left {
+  float: left;
+  width: 40vw;
+  margin-top: 10vh;
+  margin-left: 15vh;
+  color: #362222;
+  text-align: left;
+  font-size: 35px;
+  font-family: "Devonshire", cursive;
+}
+.gallery_text_right {
+  float: right;
+  width: 40vw;
+  margin-top: 10vh;
+  margin-right: 15vh;
+  color: #362222;
+  text-align: left;
+  font-size: 35px;
+  font-family: "Devonshire", cursive;
+}
+.gal_pic_left {
+  margin-top: 10vh;
+  margin-left: 20vh;
+  float: left;
+  height: 30vh;
+  transform: rotate(-15deg);
+  width: 20vw;
+  /* text-align: right; */
+  box-shadow: 0 3px 60px #000000;
+}
+.gal_pic_right {
+  margin-top: 10vh;
+  margin-right: 20vh;
+  float: right;
+  transform: rotate(15deg);
+  height: 30vh;
+  width: 20vw;
+  /* text-align: right; */
+  box-shadow: 0 3px 60px #000000;
+}
+.pic_1 {
+  margin-top: -20vw;
+  margin-right: 10vh;
+  float: right;
+  height: 50vh;
+  width: 40vw;
+  /* text-align: right; */
+  box-shadow: 0 3px 60px #000000;
+}
+.gal_1 {
+  height: 50vh;
+  background-color: #b09b71;
+}
+.gal_2 {
+  height: 50vh;
+  background-color: #d8cca3;
+}
+.gal_3 {
+  height: 50vh;
+  background-color: #f6e7d8;
+}
+.gal_4 {
+  height: 50vh;
+  background-color: #f0d290;
+}
+.footer {
+  background-color: black;
+  height: 50vh;
+  width: 100vw;
+  opacity: 1;
+}
+.footer_div1 {
+  float: left;
+  margin-top: 0;
+  margin-right: 5vw;
+  background-color: black;
+  width: 30vw;
+  height: 100%;
+}
+.footer_div2 {
+  float: left;
+  margin-top: 0;
+  margin-right: 3.5vw;
+  background-color: black;
+  width: 30vw;
+  height: 100%;
+}
+.Links {
+  font-family: "Sacramento", cursive;
+  text-align: left;
+  text-align: justify;
+  color: white;
+  font-size: 25px;
+}
+.colorline {
+  float: left;
+  height: 3px;
+  width: 60px;
+  background-color: #c4ae78;
+}
+.greyline {
+  float: left;
+  height: 3px;
+  width: 25vw;
+  background-color: gray;
+}
+.footer_div3 {
+  float: right;
+  margin-top: 0;
+  background-color: black;
+  width: 30vw;
+  height: 100%;
+}
